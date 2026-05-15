@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1",
+    "category": "number_series",
+    "difficulty": "easy",
+    "question": "இந்தத் தொடரின் அடுத்த எண் என்ன: 2, 4, 8, 16, ...?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "20" },
+      { "id": "b", "text": "24" },
+      { "id": "c", "text": "32" },
+      { "id": "d", "text": "64" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "ஒவ்வொரு எண்ணும் 2-ஆல் பெருக்கப்படுகின்றன. 16 * 2 = 32."
+  },
+  {
+    "id": "2",
+    "category": "verbal_reasoning",
+    "difficulty": "easy",
+    "question": "அடுக்ககம் (PENTHOUSE) என்பது ஆடம்பரத்துடன் தொடர்புடையது என்றால், பாதாள அறை (CELLAR) என்பது எதனுடன் தொடர்புடையது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "சேமிப்பு" },
+      { "id": "b", "text": "ஈரப்பதம்" },
+      { "id": "c", "text": "அடித்தளம்" },
+      { "id": "d", "text": "மலிவானது" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "அடுக்ககம் ஆடம்பரத்திற்குப் பயன்படுத்தப்படுகிறது; பாதாள அறை சேமிப்பிற்குப் பயன்படுத்தப்படுகிறது."
+  },
+  {
+    "id": "3",
+    "category": "logical_reasoning",
+    "difficulty": "medium",
+    "question": "சில ஆப்பிள்கள் சிவப்பாக இருந்தால், அனைத்து சிவப்பு பொருட்களும் பழங்கள் என்றால், அனைத்து ஆப்பிள்களும் பழங்களா?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "ஆம், எப்போதும்" },
+      { "id": "b", "text": "இல்லை, ஒருபோதும் இல்லை" },
+      { "id": "c", "text": "சில ஆப்பிள்கள் மட்டுமே பழங்கள்" },
+      { "id": "d", "text": "போதிய தகவல்கள் இல்லை" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "கொடுக்கப்பட்ட கூற்றின்படி சிவப்பு நிற ஆப்பிள்கள் மட்டுமே பழங்களாக இருக்கும் என்று உறுதிப்படுத்த முடியும்."
+  },
+  {
+    "id": "4",
+    "category": "spatial_reasoning",
+    "difficulty": "medium",
+    "question": "ஒரு சதுரத்தை 45 டிகிரி சுழற்றினால், எத்தனை மூலைகள் மேல்நோக்கிப் பார்க்கும்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "0" },
+      { "id": "b", "text": "1" },
+      { "id": "c", "text": "2" },
+      { "id": "d", "text": "4" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ஒரு சதுரத்தை 45 டிகிரி சுழற்றினால் அது ஒரு வைர வடிவம் போல ஒரு மூலையில் நிற்கும், எனவே ஒரு மூலை மட்டும் மேல்நோக்கி இருக்கும்."
+  },
+  {
+    "id": "5",
+    "category": "number_series",
+    "difficulty": "medium",
+    "question": "இந்தத் தொடரை முழுமைப்படுத்துக: 1, 1, 2, 3, 5, 8, 13, ...?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "15" },
+      { "id": "b", "text": "18" },
+      { "id": "c", "text": "21" },
+      { "id": "d", "text": "25" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "இது பிபனச்சி (Fibonacci) தொடர். இதில் ஒரு எண் அதற்கு முந்தைய இரு எண்களின் கூடுதல் ஆகும். 8 + 13 = 21."
+  },
+  {
+    "id": "6",
+    "category": "logical_reasoning",
+    "difficulty": "hard",
+    "question": "அனைத்து ப்ளூப்களும் (Bloops) ராஸில்ஸ்கள் (Razzles) மற்றும் அனைத்து ராஸில்ஸ்களும் லர்க்ஸ்கள் (Lurgs) என்றால், அனைத்து ப்ளூப்களும் லர்க்ஸ்கள் என்பது நிச்சயமா?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "உண்மை" },
+      { "id": "b", "text": "பொய்" },
+      { "id": "c", "text": "செவ்வாய்க்கிழமைகளில் மட்டும்" },
+      { "id": "d", "text": "தீர்மானிக்க முடியாது" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "இது ஒரு நேரடி தர்க்கரீதியான தொடர்பு (Syllogism)."
+  },
+  {
+    "id": "7",
+    "category": "verbal_reasoning",
+    "difficulty": "medium",
+    "question": "இவற்றில் பொருந்தாத சொல்லைக் கண்டுபிடி:",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "கடும் கோபம் (Livid)" },
+      { "id": "b", "text": "வெறித்தனமான கோபம் (Furious)" },
+      { "id": "c", "text": "எரிச்சல் (Exasperated)" },
+      { "id": "d", "text": "மகிழ்ச்சி (Joyful)" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "முதல் மூன்று சொற்களும் கோபத்தைக் குறிக்கின்றன; மகிழ்ச்சி என்பது அதற்கு நேர்மாறானது."
+  },
+  {
+    "id": "8",
+    "category": "pattern_recognition",
+    "difficulty": "medium",
+    "question": "முக்கோணம் : 3 :: அறுகோணம் (Hexagon) : ...?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "4" },
+      { "id": "b", "text": "5" },
+      { "id": "c", "text": "6" },
+      { "id": "d", "text": "8" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "முக்கோணத்திற்கு 3 பக்கங்கள் உள்ளன; அறுகோணத்திற்கு 6 பக்கங்கள் உள்ளன."
+  },
+  {
+    "id": "9",
+    "category": "number_series",
+    "difficulty": "hard",
+    "question": "அடுத்த எண் என்ன: 1, 4, 9, 16, 25, ...?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "30" },
+      { "id": "b", "text": "34" },
+      { "id": "c", "text": "36" },
+      { "id": "d", "text": "49" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "இவை வர்க்க எண்கள்: 1^2, 2^2, 3^2, 4^2, 5^2. அடுத்தது 6^2 = 36."
+  },
+  {
+    "id": "10",
+    "category": "spatial_reasoning",
+    "difficulty": "medium",
+    "question": "ஒரு கனசதுரத்தை (Cube) விரித்தால் அதில் எத்தனை சதுரங்கள் இருக்கும்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "4" },
+      { "id": "b", "text": "6" },
+      { "id": "c", "text": "8" },
+      { "id": "d", "text": "12" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ஒரு கனசதுரத்திற்கு 6 முகங்கள் உள்ளன, எனவே விரிக்கும்போது 6 சதுரங்கள் கிடைக்கும்."
+  },
+  {
+    "id": "11",
+    "category": "logical_reasoning",
+    "difficulty": "medium",
+    "question": "மார்க் சாராவை விட பெரியவன். சாரா ஜோவை விட பெரியவள். அப்படியென்றால் ஜோ மார்க்கை விட பெரியவனா?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "ஆம்" },
+      { "id": "b", "text": "இல்லை" },
+      { "id": "c", "text": "இருக்கலாம்" },
+      { "id": "d", "text": "போதிய தகவல்கள் இல்லை" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "M > S மற்றும் S > J என்றால், M > J. எனவே ஜோ மார்க்கை விட சிறியவன்."
+  },
+  {
+    "id": "12",
+    "category": "number_series",
+    "difficulty": "easy",
+    "question": "அடுத்த எண்: 100, 90, 80, 70, ...?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "65" },
+      { "id": "b", "text": "60" },
+      { "id": "c", "text": "50" },
+      { "id": "d", "text": "40" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ஒவ்வொரு எண்ணிலிருந்தும் 10 கழிக்கப்படுகிறது."
+  },
+  {
+    "id": "13",
+    "category": "verbal_reasoning",
+    "difficulty": "medium",
+    "question": "சத்தம் என்பது அமைதிக்கு விடையென்றால், ஒளி என்பது எதற்கான விடை?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "இருட்டு" },
+      { "id": "b", "text": "வெளிச்சம்" },
+      { "id": "c", "text": "விளக்கு" },
+      { "id": "d", "text": "பார்வை" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "ஒலி இல்லாத நிலை அமைதி; ஒளி இல்லாத நிலை இருட்டு."
+  },
+  {
+    "id": "14",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "question": "அடுத்த ஆங்கில எழுத்து எது: A, C, E, G, ...?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "H" },
+      { "id": "b", "text": "I" },
+      { "id": "c", "text": "J" },
+      { "id": "d", "text": "K" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ஒவ்வொரு எழுத்திற்குப் பின் ஒரு எழுத்துத் தவிர்க்கப்படுகிறது: A (b) C (d) E (f) G (h) I."
+  },
+  {
+    "id": "15",
+    "category": "logical_reasoning",
+    "difficulty": "easy",
+    "question": "நீங்கள் வடக்கு நோக்கிச் சென்று, வலப்புறம் திரும்பி, மீண்டும் வலப்புறம் திரும்பினால், நீங்கள் எந்தத் திசையை நோக்கி இருப்பீர்கள்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "வடக்கு" },
+      { "id": "b", "text": "தெற்கு" },
+      { "id": "c", "text": "கிழக்கு" },
+      { "id": "d", "text": "மேற்கு" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "வடக்கு -> (வலப்புறம்) கிழக்கு -> (வலப்புறம்) தெற்கு."
+  },
+  {
+    "id": "16",
+    "category": "spatial_reasoning",
+    "difficulty": "hard",
+    "question": "ஒரு முக்கோணத்தின் உள் கோணங்களின் கூடுதல் எத்தனை டிகிரி?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "90" },
+      { "id": "b", "text": "180" },
+      { "id": "c", "text": "270" },
+      { "id": "d", "text": "360" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "எந்தவொரு முக்கோணத்தின் உள் கோணங்களின் கூடுதல் எப்போதும் 180 டிகிரி ஆகும்."
+  },
+  {
+    "id": "17",
+    "category": "number_series",
+    "difficulty": "medium",
+    "question": "முழுமைப்படுத்துக: 3, 6, 12, 24, ...?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "36" },
+      { "id": "b", "text": "42" },
+      { "id": "c", "text": "48" },
+      { "id": "d", "text": "60" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "ஒவ்வொரு எண்ணும் இருமடங்காகிறது."
+  },
+  {
+    "id": "18",
+    "category": "logical_reasoning",
+    "difficulty": "medium",
+    "question": "சில பறவைகளால் பறக்க முடியாது மற்றும் பென்குயின் ஒரு பறவை என்றால், அனைத்து பென்குயின்களாலும் பறக்க முடியுமா?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "இல்லை" },
+      { "id": "b", "text": "ஆம்" },
+      { "id": "c", "text": "இருக்கலாம்" },
+      { "id": "d", "text": "விமானத்தில் மட்டும்" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "சில பறவைகளால் பறக்க முடியாது என்ற கூற்றின்படி, பென்குயின்கள் அந்த வகையைச் சார்ந்திருக்கலாம் (பென்குயின்களால் பறக்க முடியாது)."
+  },
+  {
+    "id": "19",
+    "category": "verbal_reasoning",
+    "difficulty": "hard",
+    "question": "'விவேகம்' (Prudent) என்ற சொல்லுக்கு மிக நெருக்கமான பொருள் எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "நிதானமற்ற" },
+      { "id": "b", "text": "செல்வந்தர்" },
+      { "id": "c", "text": "எச்சரிக்கை/நிதானம்" },
+      { "id": "d", "text": "கோபம்" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "விவேகம் என்பது வருங்காலத்தைக் கருத்தில் கொண்டு எச்சரிக்கையுடன் செயல்படுவதாகும்."
+  },
+  {
+    "id": "20",
+    "category": "pattern_recognition",
+    "difficulty": "easy",
+    "question": "வட்டம், சதுரம், வட்டம், சதுரம், ...?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "முக்கோணம்" },
+      { "id": "b", "text": "வட்டம்" },
+      { "id": "c", "text": "அறுகோணம்" },
+      { "id": "d", "text": "புள்ளி" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "இது ஒரு ஒன்றின் பின் ஒன்றாக வரும் எளிய முறை."
+  },
+  {
+    "id": "21",
+    "category": "number_series",
+    "difficulty": "hard",
+    "question": "அடுத்த எண் என்ன: 2, 3, 5, 7, 11, ...?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "12" },
+      { "id": "b", "text": "13" },
+      { "id": "c", "text": "15" },
+      { "id": "d", "text": "17" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "இது பகா எண்களின் (Prime numbers) தொடர்."
+  },
+  {
+    "id": "22",
+    "category": "spatial_reasoning",
+    "difficulty": "medium",
+    "question": "ஒரு கடிகாரத்தில் மதியம் 3:00 மணியைக் காட்டுகிறது. முட்களுக்கு இடையே உள்ள கோணம் என்ன?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "45 டிகிரி" },
+      { "id": "b", "text": "90 டிகிரி" },
+      { "id": "c", "text": "180 டிகிரி" },
+      { "id": "d", "text": "0 டிகிரி" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "3:00 மணியின் போது நிமிட முள் 12-லும் மணி முள் 3-லும் இருக்கும், இது 90 டிகிரி கோணத்தை உருவாக்குகிறது."
+  },
+  {
+    "id": "23",
+    "category": "logical_reasoning",
+    "difficulty": "hard",
+    "question": "உங்களிடம் 3 ஆப்பிள்கள் உள்ளன, அதில் 2-ஐ எடுத்துக் கொண்டால், உங்களிடம் எத்தனை ஆப்பிள்கள் இருக்கும்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "1" },
+      { "id": "b", "text": "2" },
+      { "id": "c", "text": "3" },
+      { "id": "d", "text": "0" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "நீங்கள் 2 ஆப்பிள்களை எடுத்தீர்கள், எனவே உங்களிடம் 2 ஆப்பிள்கள் உள்ளன."
+  },
+  {
+    "id": "24",
+    "category": "verbal_reasoning",
+    "difficulty": "easy",
+    "question": "ஒளி மாதிரியில் (RGB) எது முதன்மை நிறம் அல்ல?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "சிவப்பு" },
+      { "id": "b", "text": "பச்சை" },
+      { "id": "c", "text": "நீலம்" },
+      { "id": "d", "text": "மஞ்சள்" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "RGB என்பது சிவப்பு (Red), பச்சை (Green), நீலம் (Blue) ஆகியவற்றைக் குறிக்கிறது. மஞ்சள் இதில் இரண்டாம் நிலை நிறமாகும்."
+  },
+  {
+    "id": "25",
+    "category": "pattern_recognition",
+    "difficulty": "medium",
+    "question": "1A, 2B, 3C, ...?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "3D" },
+      { "id": "b", "text": "4C" },
+      { "id": "c", "text": "4D" },
+      { "id": "d", "text": "5E" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "எண் மற்றும் ஆங்கில எழுத்து வரிசை ஆகிய இரண்டும் அதிகரிக்கின்றன."
+  },
+  {
+    "id": "26",
+    "category": "number_series",
+    "difficulty": "medium",
+    "question": "1, 2, 4, 7, 11, ...?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "14" },
+      { "id": "b", "text": "15" },
+      { "id": "c", "text": "16" },
+      { "id": "d", "text": "18" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "எண்களுக்கு இடையிலான வித்தியாசம் ஒவ்வொரு முறையும் 1 அதிகரிக்கிறது: +1, +2, +3, +4... 11+5=16."
+  },
+  {
+    "id": "27",
+    "category": "spatial_reasoning",
+    "difficulty": "easy",
+    "question": "ஒரு உருளைக்கு (Cylinder) எத்தனை பக்கங்கள் உண்டு?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "1" },
+      { "id": "b", "text": "2" },
+      { "id": "c", "text": "3" },
+      { "id": "d", "text": "முடிவில்லாதது" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "ஒரு உருளைக்கு 2 தட்டையான ஓரங்களும் 1 வளைந்த பக்கமும் உள்ளன, மொத்தம் 3 மேற்பரப்புகள்."
+  },
+  {
+    "id": "28",
+    "category": "logical_reasoning",
+    "difficulty": "medium",
+    "question": "நேற்று செவ்வாய்க்கிழமை என்றால், 3 நாட்களில் என்ன கிழமையாக இருக்கும்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "வெள்ளிக்கிழமை" },
+      { "id": "b", "text": "சனிக்கிழமை" },
+      { "id": "c", "text": "ஞாயிற்றுக்கிழமை" },
+      { "id": "d", "text": "வியாழக்கிழமை" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "நேற்று = செவ்வாய், இன்று = புதன். புதன் + 3 நாட்கள் = சனிக்கிழமை."
+  },
+  {
+    "id": "29",
+    "category": "verbal_reasoning",
+    "difficulty": "medium",
+    "question": "'பாதாளம்' (Nadir) என்பதற்கு எதிர்ச் சொல் எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "உச்சி" },
+      { "id": "b", "text": "ஆகாய உச்சநிலை (Zenith)" },
+      { "id": "c", "text": "அடிமட்டம்" },
+      { "id": "d", "text": "மையம்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "Nadir என்பது மிகக் குறைந்த புள்ளி; Zenith என்பது மிக உயர்ந்த புள்ளி."
+  },
+  {
+    "id": "30",
+    "category": "pattern_recognition",
+    "difficulty": "hard",
+    "question": "1=5, 2=25, 3=125, என்றால் 4 என்ன?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "625" },
+      { "id": "b", "text": "500" },
+      { "id": "c", "text": "1" },
+      { "id": "d", "text": "250" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "இதன் முறை 5-ன் அடுக்கு ஆகும்: 5^1, 5^2, 5^3. 5^4 = 625."
+  }
+]

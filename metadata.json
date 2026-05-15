@@ -1,0 +1,6 @@
+{
+  "name": "IQ சேலஞ்சர்",
+  "description": "குறுகிய, தீவிரமான தினசரி IQ சவால்கள் மூலம் உங்கள் தர்க்கத் திறனை வளர்த்துக் கொள்ளுங்கள். 5 பிரிவுகளில் 30 அசல் கேள்விகள்.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
