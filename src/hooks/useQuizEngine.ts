@@ -86,7 +86,25 @@ export function useQuizEngine({ questions, numQuestions = 10 }: UseQuizEnginePro
     let wrong = 0;
     let unanswered = 0;
 
-    quizQuestions.forEach((q) => {
+    // Use attended count for results if finished early
+    const answeredCount = Object.keys(state.selectedAnswers).length;
+    const lastAttendedIndex = Math.max(state.currentQuestionIndex, 0);
+    // If the last question was answered, we count it. 
+    // If not, we count up to the previous one for the "total attended".
+    const totalAttended = state.selectedAnswers[quizQuestions[lastAttendedIndex]?.id] 
+      ? lastAttendedIndex + 1 
+      : lastAttendedIndex;
+
+    // However, the user might want the original total? 
+    // "calculates score upto the attended question"
+    // Let's use the number of questions seen so far as the denominator if they finished early
+    const isEarlyFinish = state.currentQuestionIndex < quizQuestions.length - 1 || (state.currentQuestionIndex === quizQuestions.length - 1 && !state.selectedAnswers[quizQuestions[state.currentQuestionIndex]?.id]);
+    
+    const relevantQuestions = isEarlyFinish 
+      ? quizQuestions.slice(0, totalAttended || 1) // At least 1 to avoid div by zero
+      : quizQuestions;
+
+    relevantQuestions.forEach((q) => {
       const answer = state.selectedAnswers[q.id];
       if (!answer) {
         unanswered++;
@@ -97,7 +115,7 @@ export function useQuizEngine({ questions, numQuestions = 10 }: UseQuizEnginePro
       }
     });
 
-    const total = quizQuestions.length;
+    const total = relevantQuestions.length;
     const score = correct;
     const percentage = Math.round((correct / total) * 100);
     const timeTaken = Math.round((state.endTime - state.startTime) / 1000);
@@ -113,8 +131,23 @@ export function useQuizEngine({ questions, numQuestions = 10 }: UseQuizEnginePro
     };
   }, [state, quizQuestions]);
 
+  const attendedQuestions = useMemo(() => {
+    if (!state.isFinished) return [];
+    
+    const lastAttendedIndex = Math.max(state.currentQuestionIndex, 0);
+    const hasAnsweredLast = !!state.selectedAnswers[quizQuestions[lastAttendedIndex]?.id];
+    const count = hasAnsweredLast ? lastAttendedIndex + 1 : lastAttendedIndex;
+    
+    // If not early finish, return all
+    const isEarlyFinish = state.currentQuestionIndex < quizQuestions.length - 1 || 
+                         (state.currentQuestionIndex === quizQuestions.length - 1 && !hasAnsweredLast);
+    
+    return isEarlyFinish ? quizQuestions.slice(0, count || 1) : quizQuestions;
+  }, [state, quizQuestions]);
+
   return {
     quizQuestions,
+    attendedQuestions,
     currentQuestion: quizQuestions[state.currentQuestionIndex],
     currentQuestionIndex: state.currentQuestionIndex,
     selectedAnswers: state.selectedAnswers,
@@ -125,5 +158,6 @@ export function useQuizEngine({ questions, numQuestions = 10 }: UseQuizEnginePro
     skipQuestion,
     nextQuestion,
     restartQuiz,
+    completeQuiz,
   };
 }
