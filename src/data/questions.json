@@ -448,5 +448,905 @@
     ],
     "correctOptionId": "a",
     "explanation": "இதன் முறை 5-ன் அடுக்கு ஆகும்: 5^1, 5^2, 5^3. 5^4 = 625."
+  },
+  {
+    "id": "31",
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "question": "இந்தியாவின் முதல் பிரதமர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "மகாத்மா காந்தி" },
+      { "id": "b", "text": "ஜவஹர்லால் நேரு" },
+      { "id": "c", "text": "சர்தார் படேல்" },
+      { "id": "d", "text": "டாக்டர் ராஜேந்திர பிரசாத்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ஜவஹர்லால் நேரு சுதந்திர இந்தியாவின் முதல் பிரதமராக 1947 முதல் 1964 வரை பணியாற்றினார்."
+  },
+  {
+    "id": "32",
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "question": "தமிழ்நாட்டின் மாநில விலங்கு எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "புலி" },
+      { "id": "b", "text": "யானை" },
+      { "id": "c", "text": "வரையாடு" },
+      { "id": "d", "text": "சிங்கம்" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "நீலகிரி வரையாடு தமிழ்நாட்டின் மாநில விலங்காகும்."
+  },
+  {
+    "id": "33",
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "question": "உலகின் மிகப்பெரிய பெருங்கடல் எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "அட்லாண்டிக் பெருங்கடல்" },
+      { "id": "b", "text": "இந்தியப் பெருங்கடல்" },
+      { "id": "c", "text": "பசிபிக் பெருங்கடல்" },
+      { "id": "d", "text": "ஆர்க்டிக் பெருங்கடல்" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "பசிபிக் பெருங்கடல் பூமியின் பரப்பளவில் மூன்றில் ஒரு பகுதியை ஆக்கிரமித்துள்ளது."
+  },
+  {
+    "id": "34",
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "question": "பென்சிலினைக் கண்டுபிடித்தவர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "லூயிஸ் பாஸ்டர்" },
+      { "id": "b", "text": "அலெக்சாண்டர் பிளமிங்" },
+      { "id": "c", "text": "மேரி கியூரி" },
+      { "id": "d", "text": "ஐசக் நியூட்டன்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "1928-ல் அலெக்சாண்டர் பிளமிங் முதல் ஆண்டிபயாடிக் மருந்தான பென்சிலினைக் கண்டுபிடித்தார்."
+  },
+  {
+    "id": "35",
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "question": "மனித உடலில் உள்ள எலும்புகளின் எண்ணிக்கை எவ்வளவு?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "206" },
+      { "id": "b", "text": "210" },
+      { "id": "c", "text": "300" },
+      { "id": "d", "text": "180" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "பிறக்கும்போது அதிகப்படியான எலும்புகள் இருந்தாலும், வளர்ந்த மனித உடலில் 206 எலும்புகள் உள்ளன."
+  },
+  {
+    "id": "36",
+    "category": "general_knowledge",
+    "difficulty": "hard",
+    "question": "இந்திய அரசியலமைப்பின் தந்தை என்று அழைக்கப்படுபவர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "மகாத்மா காந்தி" },
+      { "id": "b", "text": "டாக்டர் பி.ஆர். அம்பேத்கர்" },
+      { "id": "c", "text": "சுபாஷ் சந்திர போஸ்" },
+      { "id": "d", "text": "ராஜேந்திர பிரசாத்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "பி.ஆர். அம்பேத்கர் இந்திய அரசியலமைப்பு வரைவுக் குழுவின் தலைவராக இருந்தார்."
+  },
+  {
+    "id": "37",
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "question": "சூரிய குடும்பத்தில் மிகச்சிறிய கோள் எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "செவ்வாய்" },
+      { "id": "b", "text": "புதன்" },
+      { "id": "c", "text": "வெள்ளி" },
+      { "id": "d", "text": "வியாழன்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "புதன் சூரியனுக்கு மிக அருகில் உள்ள மற்றும் மிகச்சிறிய கோளாகும்."
+  },
+  {
+    "id": "38",
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "question": "விண்வெளிக்குச் சென்ற முதல் இந்தியர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "கல்பனா சாவ்லா" },
+      { "id": "b", "text": "ராகேஷ் சர்மா" },
+      { "id": "c", "text": "சுனிதா வில்லியம்ஸ்" },
+      { "id": "d", "text": "விக்ரம் சாராபாய்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "1984-ல் ராகேஷ் சர்மா சோவியத் விண்கலத்தின் மூலம் விண்வெளிக்குச் சென்றார்."
+  },
+  {
+    "id": "39",
+    "category": "general_knowledge",
+    "difficulty": "hard",
+    "question": "உலகின் மிக உயர்ந்த சிகரம் எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "கே2" },
+      { "id": "b", "text": "மக்காலு" },
+      { "id": "c", "text": "எவரெஸ்ட்" },
+      { "id": "d", "text": "காஞ்சன்ஜங்கா" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "எவரெஸ்ட் சிகரம் கடல் மட்டத்திலிருந்து 8,848.86 மீட்டர் உயரத்தில் இமயமலையில் அமைந்துள்ளது."
+  },
+  {
+    "id": "40",
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "question": "இந்தியாவின் தேசியப் பறவை எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "கிளி" },
+      { "id": "b", "text": "மயில்" },
+      { "id": "c", "text": "காகம்" },
+      { "id": "d", "text": "புறா" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "மயில் அதன் அழகிய தோகைகளுக்காக 1963-ல் தேசியப் பறவையாக அறிவிக்கப்பட்டது."
+  },
+  {
+    "id": "41",
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "question": "எந்த வைட்டமின் குறைபாட்டால் மாலைக்கண் நோய் ஏற்படுகிறது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "vitamin C" },
+      { "id": "b", "text": "vitamin D" },
+      { "id": "c", "text": "vitamin A" },
+      { "id": "d", "text": "vitamin B12" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "வைட்டமின் A கண் பார்வைக்கு மிக அவசியமானது."
+  },
+  {
+    "id": "42",
+    "category": "general_knowledge",
+    "difficulty": "hard",
+    "question": "இந்தியாவின் நயாகரா என்று அழைக்கப்படும் எந்நதி?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "காவேரி" },
+      { "id": "b", "text": "கங்கை" },
+      { "id": "c", "text": "ஹொகேனக்கல் நீர்வீழ்ச்சி" },
+      { "id": "d", "text": "சித்ரகூட் நீர்வீழ்ச்சி" }
+    ],
+    "correctOptionId": "d",
+    "explanation": "சத்தீஸ்கரில் உள்ள சித்ரகூட் நீர்வீழ்ச்சி அகலமான அமைப்பைக் கொண்டிருப்பதால் அவ்வாறு அழைக்கப்படுகிறது."
+  },
+  {
+    "id": "43",
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "question": "கணினியின் தந்தை என்று அழைக்கப்படுபவர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "பில் கேட்ஸ்" },
+      { "id": "b", "text": "ஸ்டீவ் ஜாப்ஸ்" },
+      { "id": "c", "text": "சார்லஸ் பாபேஜ்" },
+      { "id": "d", "text": "ஆலன் டூரிங்" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "சார்லஸ் பாபேஜ் முதல் மெக்கானிக்கல் கணினியை வடிவமைத்தார்."
+  },
+  {
+    "id": "44",
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "question": "கிலாஃபத் இயக்கம் எப்போது தொடங்கப்பட்டது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "1915" },
+      { "id": "b", "text": "1919" },
+      { "id": "c", "text": "1921" },
+      { "id": "d", "text": "1942" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "1919-ல் அலி சகோதரர்களால் கிலாஃபத் இயக்கம் இந்தியாவில் தொடங்கப்பட்டது."
+  },
+  {
+    "id": "45",
+    "category": "general_knowledge",
+    "difficulty": "hard",
+    "question": "ஐக்கிய நாடுகள் சபை (UN) எப்போது நிறுவப்பட்டது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "1945 அக்டோபர் 24" },
+      { "id": "b", "text": "1948 ஆகஸ்ட் 15" },
+      { "id": "c", "text": "1950 ஜனவரி 26" },
+      { "id": "d", "text": "1939 செப்டம்பர் 1" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "இரண்டாம் உலகப் போருக்குப் பிறகு உலக அமைதிக்காக UN உருவாக்கப்பட்டது."
+  },
+  {
+    "id": "46",
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "question": "தமிழ்நாட்டின் தலைநகரம் எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "மதுரை" },
+      { "id": "b", "text": "திருச்சி" },
+      { "id": "c", "text": "சென்னை" },
+      { "id": "d", "text": "கோயம்புத்தூர்" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "சென்னை (முன்பு மெட்ராஸ்) தமிழ்நாட்டின் மிகப்பெரிய நகரம் மற்றும் தலைநகரம்."
+  },
+  {
+    "id": "47",
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "question": "இரத்தச் சிவப்பணுக்கள் எங்கு உருவாகின்றன?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "இதயம்" },
+      { "id": "b", "text": "மண்ணீரல்" },
+      { "id": "c", "text": "எலும்பு மஜ்ஜை" },
+      { "id": "d", "text": "நுரையீரல்" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "எலும்பு மஜ்ஜையில் (Bone Marrow) புதிய இரத்த செல்கள் உற்பத்தி செய்யப்படுகின்றன."
+  },
+  {
+    "id": "48",
+    "category": "general_knowledge",
+    "difficulty": "hard",
+    "question": "நோபல் பரிசு பெற்ற முதல் இந்தியர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "சி.வி. ராமன்" },
+      { "id": "b", "text": "மதர் தெரசா" },
+      { "id": "c", "text": "ரவீந்திரநாத் தாகூர்" },
+      { "id": "d", "text": "அமர்த்தியா சென்" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "1913-ல் 'கீதாஞ்சலி' படைப்புக்காக இலக்கியத்திற்கான நோபல் பரிசை தாகூர் பெற்றார்."
+  },
+  {
+    "id": "49",
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "question": "உலகின் மிகப்பெரிய பாலைவனம் எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "தார் பாலைவனம்" },
+      { "id": "b", "text": "சஹாரா பாலைவனம்" },
+      { "id": "c", "text": "கோபி பாலைவனம்" },
+      { "id": "d", "text": "கலஹாரி பாலைவனம்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "சஹாரா ஆப்பிரிக்கக் கண்டத்தில் உள்ள உலகின் மிகப்பெரிய வெப்பமான பாலைவனம்."
+  },
+  {
+    "id": "50",
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "question": "இந்தியாவின் மிக நீளமான நதி எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "யமுனை" },
+      { "id": "b", "text": "கங்கை" },
+      { "id": "c", "text": "பிரம்மபுத்ரா" },
+      { "id": "d", "text": "நர்மதை" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "கங்கை நதி 2525 கி.மீ நீளம் கொண்டது."
+  },
+  {
+    "id": "51",
+    "category": "general_knowledge",
+    "difficulty": "hard",
+    "question": "மின்சாரத்தைக் கண்டுபிடித்தவர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "தாமஸ் ஆல்வா எடிசன்" },
+      { "id": "b", "text": "பெஞ்சமின் பிராங்க்ளின்" },
+      { "id": "c", "text": "நிகோலா டெஸ்லா" },
+      { "id": "d", "text": "மைக்கேல் ஃபாரடே" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "மின்னல் மற்றும் மின்சாரம் ஆகியவை ஒன்றே என்பதை தனது காத்தாடி சோதனையின் மூலம் பிராங்க்ளின் நிரூபித்தார்."
+  },
+  {
+    "id": "52",
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "question": "ஆயிரம் ஏரிகளின் நாடு என்று அழைக்கப்படுவது எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "கனடா" },
+      { "id": "b", "text": "பின்லாந்து" },
+      { "id": "c", "text": "நார்வே" },
+      { "id": "d", "text": "சுவிட்சர்லாந்து" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "பின்லாந்தில் ஏறத்தாழ 1,88,000 ஏரிகள் உள்ளன."
+  },
+  {
+    "id": "53",
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "question": "ஆக்சிஜனைக் கண்டுபிடித்தவர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "ஜோசப் பிரீஸ்ட்லி" },
+      { "id": "b", "text": "ஜான் டால்டன்" },
+      { "id": "c", "text": "ரூதர்ஃபோர்ட்" },
+      { "id": "d", "text": "கிரஹாம் பெல்" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "1774-ல் ஜோசப் பிரீஸ்ட்லி ஆக்சிஜனைத் தனித்துப் பிரித்துக் கண்டுபிடித்தார்."
+  },
+  {
+    "id": "54",
+    "category": "general_knowledge",
+    "difficulty": "hard",
+    "question": "உலகின் முதல் செயற்கைக்கோள் எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "ஆர்யபட்டா" },
+      { "id": "b", "text": "ஸ்புட்னிக் 1" },
+      { "id": "c", "text": "அப்பல்லோ 11" },
+      { "id": "d", "text": "எக்ஸ்ப்ளோரர் 1" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "1957-ல் சோவியத் யூனியனால் ஸ்புட்னிக் 1 விண்ணில் செலுத்தப்பட்டது."
+  },
+  {
+    "id": "55",
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "question": "இந்தியாவின் தேசிய கீதத்தை எழுதியவர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "பங்கிம் சந்திர சட்டர்ஜி" },
+      { "id": "b", "text": "ரவீந்திரநாத் தாகூர்" },
+      { "id": "c", "text": "சுப்பிரமணிய பாரதியார்" },
+      { "id": "d", "text": "சரோஜினி நாயுடு" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "தாகூர் எழுதிய 'ஜன கண மன' திருத்தப்பட்டு தேசிய கீதமாக ஏற்றுக்கொள்ளப்பட்டது."
+  },
+  {
+    "id": "56",
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "question": "ஒளிச்சேர்க்கையின் போது தாவரங்கள் எந்த வாயுவை வெளியிடுகின்றன?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "கார்பன் டை ஆக்சைடு" },
+      { "id": "b", "text": "ஆக்சிஜன்" },
+      { "id": "c", "text": "நைட்ரஜன்" },
+      { "id": "d", "text": "ஹைட்ரஜன்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "தாவரங்கள் கார்பன் டை ஆக்சைடை உறிஞ்சி ஆக்சிஜனை வெளியிடுகின்றன."
+  },
+  {
+    "id": "57",
+    "category": "general_knowledge",
+    "difficulty": "hard",
+    "question": "சர்வதேச நீதிமன்றத்தின் தலைமையகம் எங்குள்ளது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "நியூயார்க்" },
+      { "id": "b", "text": "லண்டன்" },
+      { "id": "c", "text": "தி ஹேக் (The Hague)" },
+      { "id": "d", "text": "பாரிஸ்" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "நெதர்லாந்து நாட்டின் தி ஹேக் நகரில் சர்வதேச நீதிமன்றம் அமைந்துள்ளது."
+  },
+  {
+    "id": "58",
+    "category": "general_knowledge",
+    "difficulty": "easy",
+    "question": "இரத்தத்தை உடலின் பல பாகங்களுக்குப் பம்ப் செய்வது எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "நுரையீரல்" },
+      { "id": "b", "text": "மூளை" },
+      { "id": "c", "text": "இதயம்" },
+      { "id": "d", "text": "கல்லீரல்" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "இதயம் ஒரு தசை உறுப்பாகும் இது இரத்தத்தை உடல் முழுவதும் செலுத்துகிறது."
+  },
+  {
+    "id": "59",
+    "category": "general_knowledge",
+    "difficulty": "medium",
+    "question": "இந்தியாவின் இரும்பு மனிதர் என்று அழைக்கப்படுபவர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "நேதாஜி" },
+      { "id": "b", "text": "சர்தார் வல்லபாய் படேல்" },
+      { "id": "c", "text": "லால் பகதூர் சாஸ்திரி" },
+      { "id": "d", "text": "பகத் சிங்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "சமஸ்தானங்களை ஒன்றிணைத்து இந்தியாவைக் கட்டியெழுப்பியதால் படேல் அவ்வாறு அழைக்கப்படுகிறார்."
+  },
+  {
+    "id": "60",
+    "category": "general_knowledge",
+    "difficulty": "hard",
+    "question": "பூமியின் வளிமண்டலத்தில் அதிக அளவில் உள்ள வாயு எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "ஆக்சிஜன்" },
+      { "id": "b", "text": "நைட்ரஜன்" },
+      { "id": "c", "text": "ஹீலியம்" },
+      { "id": "d", "text": "மெத்தேன்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "வளிமண்டலத்தில் சுமார் 78% நைட்ரஜன் வாயு உள்ளது."
+  },
+  {
+    "id": "61",
+    "category": "edu_reforms",
+    "difficulty": "easy",
+    "question": "இந்தியாவின் புதிய கல்விக் கொள்கை (NEP) எந்த ஆண்டு அறிமுகப்படுத்தப்பட்டது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "2018" },
+      { "id": "b", "text": "2019" },
+      { "id": "c", "text": "2020" },
+      { "id": "d", "text": "2021" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "34 ஆண்டுகளுக்குப் பிறகு 2020-ல் புதிய கல்விக் கொள்கையை மத்திய அரசு கொண்டு வந்தது."
+  },
+  {
+    "id": "62",
+    "category": "edu_reforms",
+    "difficulty": "easy",
+    "question": "கட்டாயக் கல்வி உரிமைச் சட்டம் (RTE) எந்த வயதுக் குழந்தைகளுக்குப் பொருந்தும்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "3 - 10" },
+      { "id": "b", "text": "5 - 15" },
+      { "id": "c", "text": "6 - 14" },
+      { "id": "d", "text": "10 - 18" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "6 முதல் 14 வயது வரை உள்ள அனைத்துக் குழந்தைகளுக்கும் இலவச மற்றும் கட்டாயக் கல்வி வழங்கப்பட வேண்டும்."
+  },
+  {
+    "id": "63",
+    "category": "edu_reforms",
+    "difficulty": "medium",
+    "question": "NEP 2020-ன்படி பள்ளி கல்வியின் புதிய அமைப்பு முறை என்ன?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "10+2" },
+      { "id": "b", "text": "5+3+3+4" },
+      { "id": "c", "text": "4+4+4+2" },
+      { "id": "d", "text": "3+3+3+3" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "10+2 முறைக்குப் பதிலாக அடிப்படை, ஆயத்த, நடுத்தர மற்றும் உயர்நிலை என்ற 5+3+3+4 முறை அறிமுகப்படுத்தப்பட்டது."
+  },
+  {
+    "id": "64",
+    "category": "edu_reforms",
+    "difficulty": "easy",
+    "question": "தமிழ்நாட்டில் மதிய உணவுத் திட்டத்தை முதன்முதலில் அறிமுகப்படுத்தியவர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "எம்.ஜி.ஆர்" },
+      { "id": "b", "text": "காமராஜர்" },
+      { "id": "c", "text": "அண்ணா" },
+      { "id": "d", "text": "கலைஞர் கருணாநிதி" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "பள்ளிக்கு மாணவர்கள் வருவதை ஊக்குவிக்க காமராஜர் மதிய உணவுத் திட்டத்தைக் கொண்டு வந்தார்."
+  },
+  {
+    "id": "65",
+    "category": "edu_reforms",
+    "difficulty": "medium",
+    "question": "UGC என்பதன் விரிவாக்கம் என்ன?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "University Good Council" },
+      { "id": "b", "text": "University Grants Commission" },
+      { "id": "c", "text": "United Graduate Center" },
+      { "id": "d", "text": "Union Government College" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "பல்கலைக்கழக மானியக் குழு உயர்கல்வியை ஒழுங்குபடுத்தும் அமைப்பாகும்."
+  },
+  {
+    "id": "66",
+    "category": "edu_reforms",
+    "difficulty": "hard",
+    "question": "ராதாகிருஷ்ணன் கல்வி ஆணையம் எப்போது அமைக்கப்பட்டது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "1948" },
+      { "id": "b", "text": "1952" },
+      { "id": "c", "text": "1964" },
+      { "id": "d", "text": "1986" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "சுதந்திர இந்தியாவின் முதல் கல்வி ஆணையம் பல்கலைக்கழகக் கல்வியை மேம்படுத்த 1948-ல் அமைக்கப்பட்டது."
+  },
+  {
+    "id": "67",
+    "category": "edu_reforms",
+    "difficulty": "medium",
+    "question": "தமிழ்நாட்டில் 'இல்லம் தேடிக் கல்வி' திட்டம் எதற்காகத் தொடங்கப்பட்டது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "கடினமானப் பாடங்களைக் கற்பிக்க" },
+      { "id": "b", "text": "கொரோனா கால கற்றல் இடைவெளியைக் குறைக்க" },
+      { "id": "c", "text": "கல்லூரி மாணவர்களுக்கு உதவ" },
+      { "id": "d", "text": "இணையதளக் கல்விக்காக" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "ஊரடங்கால் ஏற்பட்ட கற்றல் இழப்பை சரி செய்ய இத்திட்டம் தமிழ்நாடு அரசால் கொண்டு வரப்பட்டது."
+  },
+  {
+    "id": "68",
+    "category": "edu_reforms",
+    "difficulty": "hard",
+    "question": "கோத்தாரி கல்வி ஆணையம் பரிந்துரைத்த கல்வி முறை எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "10+2+3" },
+      { "id": "b", "text": "5+3+2" },
+      { "id": "c", "text": "12+3" },
+      { "id": "d", "text": "8+4+2" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "1964-66 காலப்பகுதியில் கோத்தாரி ஆணையம் 10+2+3 என்ற சீரான கல்வி முறையைப் பரிந்துரைத்தது."
+  },
+  {
+    "id": "69",
+    "category": "edu_reforms",
+    "difficulty": "easy",
+    "question": "எந்நாள் இந்தியாவில் 'ஆசிரியர்கள் தினமாக' கொண்டாடப்படுகிறது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "அக்டோபர் 2" },
+      { "id": "b", "text": "செப்டம்பர் 5" },
+      { "id": "c", "text": "நவம்பர் 14" },
+      { "id": "d", "text": "ஆகஸ்ட் 15" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "டாக்டர் எஸ். ராதாகிருஷ்ணனின் பிறந்த நாளை முன்னிட்டு ஆசிரியர் தினம் கொண்டாடப்படுகிறது."
+  },
+  {
+    "id": "70",
+    "category": "edu_reforms",
+    "difficulty": "medium",
+    "question": "சரவ சிக்ஷா அபியான் (SSA) என்பதன் நோக்கம் என்ன?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "அனைவருக்கும் உயர்கல்வி" },
+      { "id": "b", "text": "அனைவருக்கும் தொடக்கக் கல்வி" },
+      { "id": "c", "text": "ஆசிரியர்களுக்குப் பயிற்சி" },
+      { "id": "d", "text": "கல்விக்கடன் வழங்குதல்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "SSA திட்டம் அனைவருக்கும் தரமான ஆரம்பக் கல்வி வழங்குவதை உறுதி செய்கிறது."
+  },
+  {
+    "id": "71",
+    "category": "edu_reforms",
+    "difficulty": "hard",
+    "question": "முதன்முதலில் தேசியக் கல்விக் கொள்கை எந்த ஆண்டு நடைமுறைக்கு வந்தது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "1968" },
+      { "id": "b", "text": "1986" },
+      { "id": "c", "text": "1992" },
+      { "id": "d", "text": "2005" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "இந்திரா காந்தி பிரதமராக இருந்தபோது 1968-ல் முதல் முழுமையான கல்விக் கொள்கை உருவாக்கப்பட்டது."
+  },
+  {
+    "id": "72",
+    "category": "edu_reforms",
+    "difficulty": "easy",
+    "question": "தமிழ்நாட்டில் இலவச சீருடை மற்றும் காலணி வழங்கும் திட்டத்தை விரிவுபடுத்தியவர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "காமராஜர்" },
+      { "id": "b", "text": "கருணாநிதி" },
+      { "id": "c", "text": "எம்.ஜி.ஆர்" },
+      { "id": "d", "text": "ஜெயலலிதா" }
+    ],
+    "correctOptionId": "c",
+    "explanation": "சத்துணவுத் திட்டத்துடன் மாணவர்களுக்கு இலவச சீருடைத் திட்டத்தையும் எம்.ஜி.ஆர் தீவிரப்படுத்தினார்."
+  },
+  {
+    "id": "73",
+    "category": "edu_reforms",
+    "difficulty": "medium",
+    "question": "NIOS என்பதன் விரிவாக்கம் என்ன?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "National Institute of Open Schooling" },
+      { "id": "b", "text": "National India Open Service" },
+      { "id": "c", "text": "New Institute of Science" },
+      { "id": "d", "text": "National Integrated Office System" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "திறந்தநிலை கற்கும் முறையின் மூலம் பள்ளிப் படிப்பை மேற்கொள்ள இது உதவுகிறது."
+  },
+  {
+    "id": "74",
+    "category": "edu_reforms",
+    "difficulty": "hard",
+    "question": "சிவன் குழு (K. Kasturirangan Committee) எதனுடன் தொடர்புடையது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "இணையதளப் பாதுகாப்பு" },
+      { "id": "b", "text": "புதிய கல்விக் கொள்கை 2020 வரைவு" },
+      { "id": "c", "text": "வங்கிச் சீர்திருத்தம்" },
+      { "id": "d", "text": "சுற்றுச்சூழல் பாதுகாப்பு" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "கஸ்தூரிரங்கன் தலைமையிலான குழுதான் தேசிய கல்விக் கொள்கை 2020-ன் வரைவை வழங்கியது."
+  },
+  {
+    "id": "75",
+    "category": "edu_reforms",
+    "difficulty": "easy",
+    "question": "எந்நாள் தேசியக் கல்வி தினமாகக் கொண்டாடப்படுகிறது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "நவம்பர் 11" },
+      { "id": "b", "text": "செப்டம்பர் 5" },
+      { "id": "c", "text": "ஜனவரி 26" },
+      { "id": "d", "text": "அக்டோபர் 15" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "இந்தியாவின் முதல் கல்வி அமைச்சர் மௌலானா அபுல் கலாம் ஆசாத்தின் பிறந்த நாளை முன்னிட்டு கொண்டாடப்படுகிறது."
+  },
+  {
+    "id": "76",
+    "category": "edu_reforms",
+    "difficulty": "medium",
+    "question": "குழந்தைகளுக்கு எதிரான குற்றங்களைத் தடுக்கப் பள்ளிகளில் உள்ள புகார் எண் என்ன?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "100" },
+      { "id": "b", "text": "1098" },
+      { "id": "c", "text": "108" },
+      { "id": "d", "text": "104" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "1098 என்பது குழந்தை உதவி மைய எண் (Childline)."
+  },
+  {
+    "id": "77",
+    "category": "edu_reforms",
+    "difficulty": "hard",
+    "question": "ஹண்டர் ஆணையம் (Hunter Commission) எதற்காக அமைக்கப்பட்டது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "தொழில்நுட்பக் கல்வி" },
+      { "id": "b", "text": "இந்தியாவின் கல்வி நிலைமையை ஆய்வு செய்ய (1882)" },
+      { "id": "c", "text": "பிரிட்டிஷ் ராணுவ மேம்பாடு" },
+      { "id": "d", "text": "வரிச் சீர்திருத்தம்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "பிரிட்டிஷ் ஆட்சிக்காலத்தில் இந்தியாவின் தொடக்க மற்றும் இடைநிலைக் கல்வியை ஆய்வு செய்ய அமைக்கப்பட்டது."
+  },
+  {
+    "id": "78",
+    "category": "edu_reforms",
+    "difficulty": "easy",
+    "question": "அப்துல் கலாமின் பிறந்த நாள் என்னவாகக் கொண்டாடப்படுகிறது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "மாணவர் தினம்" },
+      { "id": "b", "text": "விஞ்ஞானிகள் தினம்" },
+      { "id": "c", "text": "ஒருங்கிணைப்பு தினம்" },
+      { "id": "d", "text": "இளைஞர் எழுச்சித் தினம்" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "அக்டோபர் 15 உலக மாணவர் தினமாக ஐக்கிய நாடுகள் சபையாலும் அங்கீகரிக்கப்பட்டுள்ளது."
+  },
+  {
+    "id": "79",
+    "category": "edu_reforms",
+    "difficulty": "medium",
+    "question": "பள்ளிக்கு வராத குழந்தைகளைக் கண்டறிந்து சேர்க்கும் 'ஆபரேஷன் பிளாக் போர்டு' எப்போது தொடங்கப்பட்டது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "1968" },
+      { "id": "b", "text": "1987" },
+      { "id": "c", "text": "1995" },
+      { "id": "d", "text": "2001" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "கரும்பலகைத் திட்டம் 1986 கல்விக் கொள்கையின் கீழ் 1987-ல் ஆரம்பப் பள்ளிகளின் தரத்தை உயர்த்த தொடங்கப்பட்டது."
+  },
+  {
+    "id": "80",
+    "category": "edu_reforms",
+    "difficulty": "hard",
+    "question": "இந்தியாவின் தேசிய டிஜிட்டல் நூலகம் (NDL) எங்கு நிர்வகிக்கப்படுகிறது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "IIT மெட்ராஸ்" },
+      { "id": "b", "text": "IIT காரக்பூர்" },
+      { "id": "c", "text": "IISc பெங்களூரு" },
+      { "id": "d", "text": "JNU டெல்லி" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "மெய்நிகர் முறையில் கல்விக் கருவிகளை வழங்க IIT காரக்பூர் இதை பராமரிக்கிறது."
+  },
+  {
+    "id": "81",
+    "category": "edu_reforms",
+    "difficulty": "easy",
+    "question": "UNESCO என்பதன் தலைமையகம் எங்குள்ளது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "வாஷிங்டன்" },
+      { "id": "b", "text": "பாரிஸ்" },
+      { "id": "c", "text": "ஜெனிவா" },
+      { "id": "d", "text": "ரோம்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "கல்வி மற்றும் கலாச்சார வளர்ச்சிக்காக பிரான்ஸ் நாட்டின் பாரிஸ் நகரில் UNESCO தலைமையகம் உள்ளது."
+  },
+  {
+    "id": "82",
+    "category": "edu_reforms",
+    "difficulty": "medium",
+    "question": "சத்துணவுத் திட்டத்துடன் முட்டை வழங்கும் முறையை அறிமுகப்படுத்தியவர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "எம்.ஜி.ஆர்" },
+      { "id": "b", "text": "மு. கருணாநிதி" },
+      { "id": "c", "text": "ஜெ. ஜெயலலிதா" },
+      { "id": "d", "text": "ஓ. பன்னீர்செல்வம்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "1989-ல் மாணவர்களுக்கு புரதச்சத்து கிடைக்க முட்டை வழங்கும் முறையை கருணாநிதி தொடங்கினார்."
+  },
+  {
+    "id": "83",
+    "category": "edu_reforms",
+    "difficulty": "hard",
+    "question": "ஆங்கிலக் கல்வியின் மேக்னா கார்டா (Magna Carta of English Education in India) என்று அழைக்கப்படுவது எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "மெக்காலே மினிட் (1835)" },
+      { "id": "b", "text": "வுட்ஸ் அறிக்கை (1854)" },
+      { "id": "c", "text": "சார்ட்டர் சட்டம் (1813)" },
+      { "id": "d", "text": "சார்ஜென்ட் அறிக்கை" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "சார்லஸ் வுட்ஸ் அறிக்கை இந்தியாவில் நவீன கல்வி முறையின் அடிப்படையை அமைத்தது."
+  },
+  {
+    "id": "84",
+    "category": "edu_reforms",
+    "difficulty": "easy",
+    "question": "கல்வி உரிமைச் சட்டம் நடைமுறைக்கு வந்த நாள் எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "ஏப்ரல் 1, 2010" },
+      { "id": "b", "text": "ஆகஸ்ட் 15, 1947" },
+      { "id": "c", "text": "ஜனவரி 26, 1950" },
+      { "id": "d", "text": "டிசம்பர் 1, 2005" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "RTE சட்டம் 2009-ல் இயற்றப்பட்டாலும், ஏப்ரல் 1, 2010 அன்று நடைமுறைக்கு வந்தது."
+  },
+  {
+    "id": "85",
+    "category": "edu_reforms",
+    "difficulty": "medium",
+    "question": "பள்ளிகளில் 'அனைவருக்கும் கல்வி' இயக்கம் எதன் மூலம் கண்காணிக்கப்படுகிறது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "சமக்ர சிக்ஷா (Samagra Shiksha)" },
+      { "id": "b", "text": "MHRD" },
+      { "id": "c", "text": "நாசா" },
+      { "id": "d", "text": "சிபிஐ" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "SSA, RMSA மற்றும் ஆசிரியர் கல்வி ஆகியவற்றை இணைத்து 'சமக்ர சிக்ஷா' திட்டம் உருவாக்கப்பட்டது."
+  },
+  {
+    "id": "86",
+    "category": "edu_reforms",
+    "difficulty": "hard",
+    "question": "இந்தியாவின் முதல் பெண் ஆசிரியர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "சரோஜினி நாயுடு" },
+      { "id": "b", "text": "சாவித்ரிபாய் பூலே" },
+      { "id": "c", "text": "ஆன்னி பெசன்ட்" },
+      { "id": "d", "text": "விஜயலட்சுமி பண்டிட்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "19-ம் நூற்றாண்டில் பெண்களுக்கான கல்வியை வலியுறுத்தி சாவித்ரிபாய் பூலே பணியாற்றியவர்."
+  },
+  {
+    "id": "87",
+    "category": "edu_reforms",
+    "difficulty": "easy",
+    "question": "தமிழ்நாட்டில் பெண் கல்விக்காகத் தொடங்கப்பட்ட திருமண உதவித் திட்டம் யாருடைய பெயரில் வழங்கப்படுகிறது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "அன்னை தெரசா" },
+      { "id": "b", "text": "மூவலூர் ராமாமிர்தம் அம்மையார்" },
+      { "id": "c", "text": "வேலு நாச்சியார்" },
+      { "id": "d", "text": "மணிமேகலை" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "மூவலூர் ராமாமிர்தம் அம்மையார் நினைவு உயர்கல்வி உறுதித் திட்டம் தற்போது 'புதுமைப் பெண்' திட்டமாக உள்ளது."
+  },
+  {
+    "id": "88",
+    "category": "edu_reforms",
+    "difficulty": "medium",
+    "question": "CBSE என்பதன் தலைமையகம் எங்குள்ளது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "மும்பை" },
+      { "id": "b", "text": "புது டெல்லி" },
+      { "id": "c", "text": "கொல்கத்தா" },
+      { "id": "d", "text": "சென்னை" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "மத்திய இடைநிலைக் கல்வி வாரியம் தேசிய அளவில் டெல்லியை மையமாகக் கொண்டு செயல்படுகிறது."
+  },
+  {
+    "id": "89",
+    "category": "edu_reforms",
+    "difficulty": "hard",
+    "question": "ஐந்தாம் வகுப்பு வரை தாய்மொழிக்கே முக்கியத்துவம் தர வேண்டும் என வலியுறுத்தியக் கொள்கை எது?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "NEP 2020" },
+      { "id": "b", "text": "NPE 1986" },
+      { "id": "c", "text": "செகண்டரி எஜுகேஷன் 1952" },
+      { "id": "d", "text": "மெக்காலே கொள்கை" }
+    ],
+    "correctOptionId": "a",
+    "explanation": "தேசிய கல்விக் கொள்கை 2020 ஆரம்பக் கல்வியில் தாய்மொழி வழிக் கற்றலை ஊக்குவிக்கிறது."
+  },
+  {
+    "id": "90",
+    "category": "edu_reforms",
+    "difficulty": "easy",
+    "question": "தமிழ்நாட்டில் மாணவர்களுக்கு இலவச மடிக்கணினித் திட்டத்தைத் தொடங்கியவர் யார்?",
+    "image": null,
+    "options": [
+      { "id": "a", "text": "கருணாநிதி" },
+      { "id": "b", "text": "ஜெயலலிதா" },
+      { "id": "c", "text": "எடப்பாடி பழனிசாமி" },
+      { "id": "d", "text": "மு.க. ஸ்டாலின்" }
+    ],
+    "correctOptionId": "b",
+    "explanation": "2011-ல் மாணவர்களுக்கு நவீனத் தொழில்நுட்ப அறிவு கிடைக்க ஜெயலலிதா இத்திட்டத்தைத் தொடங்கினார்."
   }
 ]
